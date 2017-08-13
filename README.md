@@ -1,0 +1,1 @@
+# -ethminer.exe--C--F-http-eth.pool.minergate.com-55751-diegocolares-live.com---disable-submit-hashr
